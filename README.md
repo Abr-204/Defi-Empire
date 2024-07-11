@@ -34,5 +34,5 @@ The "DeFi-Empire" project introduces an ERC20 token, "Dunder Mifflin" (DMI), and
 
 ## Authors
 
-- Hemin Patel
-- GitHub: [https://github.com/iMPERIAL18](https://github.com/iMPERIAL18)
+- Abhay Rana
+- GitHub: [https://github.com/Abr-204/Defi-Empire)
